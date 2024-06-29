@@ -1,6 +1,6 @@
 # Hi there, I'm Rishikesh Kumar 👋
 
-![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder" style="width:100%;"/>
 
 ## 👨‍💻 About Me
 🚀 Passionate Computer Science Student | Aspiring Developer | Coding Enthusiast
