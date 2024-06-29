@@ -3,7 +3,8 @@
 ![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 👨‍💻 About Me
-A Final Year Computer Science Undergraduate at Siddaganga Institute of Technology Tumkur who is a passionate Programmer , Full Stack Web Developer.
+🚀 Passionate Computer Science Student | Aspiring Developer | Coding Enthusiast
+🎓 Currently in my third year pursuing a B.E. in Computer Science at Siddaganga Institute of Technology(TUMKUR), I am dedicated to honing my skills in coding and web development
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
