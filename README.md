@@ -29,13 +29,13 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Algorithm-Visualizer</h3>
+        <h3 align="center">Imaginify</h3>
         <div align="center">  
-          <a href="https://github.com/rishikeshkumar3102/Algorithm-Visualizer" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikeshkumar3102&repo=Algorithm-Visualizer&theme=dark&hide_border=true" alt="Algorithm-Visualizer">
+          <a href="https://github.com/rishikeshkumar3102/Imaginify" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikeshkumar3102&repo=Imaginify&theme=dark&hide_border=true" alt="Algorithm-Visualizer">
           </a>
           <p align="center">
-            <a href="https://github.com/rishikeshkumar3102/Algorithm-Visualizer" target="_blank">
+            <a href="https://github.com/rishikeshkumar3102/Imaginify" target="_blank">
               <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
             </a>
           </p>
